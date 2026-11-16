@@ -4,3 +4,5 @@ def factorial(n):
 
         result *= i
     return result
+print(factorial(12))
+print(factorial(20))
